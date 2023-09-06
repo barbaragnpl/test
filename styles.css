@@ -1,17 +1,20 @@
 
 
-.homepage-head{
-    font-size: 50px;
-    text-align: center;
-    font-style: italic;
-}
-.homepage-head2{
-    font-size: 40px;
-    text-align: center;
-    font-style: oblique;
-}
-.mmg {height: 350px;
 
-}
+
 
 .bg-blue{background-color: blue;}
+
+.bg-lightblue{background-color: mediumturquoise;}
+
+.bg-goodpink{background-color: hotpink;}
+
+.bg-grey{background-color: darkgrey;}
+
+.bg-black{background-color: black;}
+
+.bg-white{color: rgb(255, 255, 255);}
+
+
+
+
