@@ -28,3 +28,12 @@ body {
     text-align: center;
 }
 
+.bg-dark-blue {
+    background-color: darkblue;
+}
+
+#header,
+#main,
+#footer {
+    align-items: center;
+}
