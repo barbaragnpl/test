@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bestmovies-head {
+    font-size: 70px;
+    margin-bottom: 30px;
+    color:black;
+    text-align: center;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    color:black
+}
+
+.bg-dark-purple {
+    background-color: #6b5b95;
+}
+
+.bg-purple {
+    background-color: #682857;
+}
+
+.bg-yellow {
+    background-color: #ffde66;
+}
+
+.bg-coral {
+    background-color: #e97690;
+}
+
+ol{
+    list-style: none;
+    display: flex;
+    
+}
+
+li{
+    margin: 10px;
+    padding: 15px;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 30%;
+    height: 300px;
+    align-items: center;
+    
+}
+
+.shadow {
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
