@@ -75,7 +75,7 @@ img {
 }
 
 .bg-white {
-  height: 80px;
+  height: 70px;
   width: 500px;
   align-items: center;
 }
@@ -92,3 +92,4 @@ li {
     padding: 0;
     margin: 0;
 }
+
