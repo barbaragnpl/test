@@ -15,7 +15,7 @@ nav.navbar{
 
 .bg-grey{background-color: darkgrey;}
 
-.bg-black{background-color: black;}
+.black{background-color: black;}
 
 .bg-white{color: rgb(255, 255, 255);}
 
@@ -29,7 +29,7 @@ margin: 0 auto;
  }
 
 .editing-image{box-shadow:0px 5px 15px rgba(0, 0, 0, 0.3);
-border-radius: 10px;
+border-radius: 10px;}
     
 pl{display: flex;
     justify-content: space-between;
@@ -39,3 +39,10 @@ pl{display: flex;
 h1{font-size: 40;
     text-align: center;
 }
+p{font-size: 60px;}
+
+.edit-text{
+    font-size: 24px !important;
+    
+}
+
