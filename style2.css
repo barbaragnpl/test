@@ -6,7 +6,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 h1 {
 font-size: 50px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: cursive;
 }
 
 h2 {
@@ -30,7 +30,10 @@ body {
 #header,
 #main,
 #footer {
+    display: flex;
     align-items: center;
+    justify-content: center;
+flex-direction: column;
 }
 
 h1,
@@ -41,7 +44,8 @@ p {
 }
 
 body {
-    padding-bottom: 5rem;
+    padding-bottom: 0rem;
+    align-items: center;
   }
   .starter-template {
     text-align: center;
@@ -51,6 +55,9 @@ body {
   li {
     border: 2px solid powderblue;
     margin: 50px;
+    font-stretch: narrower;
+    -ms-flex-align: center;
+    align-self: center;
   }
 
 .bg-white {
@@ -61,5 +68,27 @@ li {
     color: darkblue;
     order: inherit;
 }
- 
 
+img {
+    box-shadow: -10px 10px 30px color(blue), 10px,-10px, 30px color(srgb(199, 217, 252));
+    border-radius: 100%;
+}
+
+.bg-white {
+  height: 80px;
+  width: 500px;
+  align-items: center;
+}
+
+.shadow {
+    box-shadow: white;
+}
+
+li {
+    padding: 20px;
+}
+ 
+* {
+    padding: 0;
+    margin: 0;
+}
