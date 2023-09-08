@@ -23,7 +23,7 @@ body {
     text-align: center;
 }
 
-.bg-dark-blue {
+.parks-bg-dark-blue {
     background-color: darkblue;
 }
 
@@ -36,10 +36,7 @@ body {
 flex-direction: column;
 }
 
-h1,
-h2,
-h3,
-p {
+.parks-white {
     color: white;
 }
 
@@ -60,7 +57,7 @@ body {
     align-self: center;
   }
 
-.bg-white {
+.parks-bg-white {
     background-color: white;
 }
 
@@ -70,7 +67,6 @@ li {
 }
 
 img {
-    box-shadow: -10px 10px 30px color(blue), 10px,-10px, 30px color(srgb(199, 217, 252));
     border-radius: 100%;
 }
 
