@@ -1,0 +1,60 @@
+
+.blue{
+    color: #151d64;
+}
+
+nav.navbar{
+    background-color: #151d64 !important
+}
+
+.bg-blue{background-color: blue;}
+
+.bg-lightblue{background-color: mediumturquoise;}
+
+.bg-goodpink{background-color: hotpink;}
+
+.bg-grey{background-color: darkgrey;}
+
+.black{background-color: black;}
+
+.bg-white{color: rgb(255, 255, 255);}
+
+.edit-image{
+    text-align: center;
+    margin: 0 auto;
+
+ }
+
+ .edit-class{
+    text-align: center;
+ }
+
+.editing-image{box-shadow:0px 5px 15px rgba(0, 0, 0, 0.3);
+border-radius: 10px;}
+    
+
+
+.arxiki-h1{font-size: 40;
+    text-align: center;
+}
+.arxiki-para{font-size: 60px;
+border: 2px seagreen;}
+
+.edit-text{
+    font-size: 24px !important;
+
+    
+}
+
+.heading-4{text-align: end;}
+.arxikh-li{text-align: end;}
+
+
+.arxiki-lista{
+    text-align: end;
+}
+
+.arxiki-lista ul li{
+    list-style-type: none;
+}
+
