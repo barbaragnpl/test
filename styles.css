@@ -19,8 +19,9 @@ nav.navbar{
 
 .bg-white{color: rgb(255, 255, 255);}
 
-.edit-image{text-align: center;
-margin: 0 auto;
+.edit-image{
+    text-align: center;
+    margin: 0 auto;
 
  }
 
@@ -31,20 +32,29 @@ margin: 0 auto;
 .editing-image{box-shadow:0px 5px 15px rgba(0, 0, 0, 0.3);
 border-radius: 10px;}
     
-pl{display: flex;
-    justify-content: space-between;
-    width: 60%;
-    padding: 20px;}
 
-h1{font-size: 40;
+
+.arxiki-h1{font-size: 40;
     text-align: center;
 }
-p{font-size: 60px;}
+.arxiki-para{font-size: 60px;
+border: 2px seagreen;}
 
 .edit-text{
     font-size: 24px !important;
+
     
 }
 
-h4{text-align: end;}
-li{text-align: end;}
+.heading-4{text-align: end;}
+.arxikh-li{text-align: end;}
+
+
+.arxiki-lista{
+    text-align: end;
+}
+
+.arxiki-lista ul li{
+    list-style-type: none;
+}
+
