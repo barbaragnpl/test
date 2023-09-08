@@ -9,8 +9,7 @@
     text-align: center;
 }
 
-body {
-    font-family:'Times New Roman', Times, serif;
+.movies-body{   font-family:'Times New Roman', Times, serif;
     color:black
 }
 
@@ -30,25 +29,32 @@ body {
     background-color: #e97690;
 }
 
-ol{
+.movies-ol{
     list-style: none;
     display: flex;
     
 }
 
-li{
+.movies-li{
     margin: 10px;
     padding: 15px;
     font-size: 30px;
 }
 
-img {
+.movies-img {
     border-radius: 30%;
     height: 300px;
-    align-items: center;
+    /* align-items: center; */
     
 }
 
-.shadow {
+.movies-shadow {
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.movies-p {
+    font-size: 30px;
+    margin: 50px;
+    padding: 30px;
+
 }
