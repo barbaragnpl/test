@@ -1,25 +1,20 @@
-p,
-li {
+.p-l-parks {
 font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h1 {
-font-size: 50px;
+.h1-parks {
+font-size: 70px;
 font-family: cursive;
 }
 
-h2 {
-    font-size: 30px;
+.h2-h3-parks {
+    font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h3 {
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 
-body {
+.body-parks-2 {
     text-align: center;
 }
 
@@ -40,7 +35,7 @@ flex-direction: column;
     color: white;
 }
 
-body {
+.parks-body {
     padding-bottom: 0rem;
     align-items: center;
   }
@@ -48,8 +43,7 @@ body {
     text-align: center;
   }
 
-  p,
-  li {
+  .parks-para {
     border: 2px solid powderblue;
     margin: 50px;
     font-stretch: narrower;
@@ -61,12 +55,18 @@ body {
     background-color: white;
 }
 
-li {
+.parks-list {
     color: darkblue;
     order: inherit;
+    padding: 20px;
+    border: 2px solid powderblue;
+    margin: 50px;
+    font-stretch: narrower;
+    -ms-flex-align: center;
+    align-self: center;
 }
 
-img {
+.parks-img {
     border-radius: 100%;
 }
 
@@ -80,9 +80,6 @@ img {
     box-shadow: white;
 }
 
-li {
-    padding: 20px;
-}
  
 * {
     padding: 0;
