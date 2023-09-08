@@ -1,0 +1,40 @@
+.about-img{
+    width: 400px;
+    height: 400PX;
+    box-shadow: -10px 10px 30px gray ;
+    margin:15px;
+    border-radius: 15px;
+    
+}
+
+.about-h1{
+    letter-spacing: 7,5px;
+    margin-bottom: 60px;
+    font-size: 65px;
+    padding: 20px;
+}
+    
+.about-h2{
+    margin-bottom: 40px;
+    font-size: 45px;
+    padding:7,5px;
+}
+   
+.about-h3{
+    letter-spacing: 7,5px;
+    margin-bottom: 60px;
+    font-size: 65px;
+    padding: 20px;
+}
+
+.center-img{
+    text-align: center;
+}
+
+.bg-blueviolet {
+    background-color: rgb(24, 13, 96);
+}
+
+.white {
+    color: azure;
+}
